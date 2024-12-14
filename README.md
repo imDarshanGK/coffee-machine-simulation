@@ -1,11 +1,9 @@
 # ☕ Coffee Machine Simulation
 
-## About
-
+## Overview
 This project simulates a coffee machine. Users can order different types of coffee like Latte, Espresso, and Cappuccino. The system checks if there are enough ingredients (water, milk, coffee), processes payments, and prepares the coffee.
 
 ## Features
-
 - **Order Coffee** 🍵: Users can choose from three types of coffee: Latte, Espresso, and Cappuccino.
 - **Resource Check** 🔍: The system checks if there are enough ingredients (water, milk, and coffee) to prepare the selected coffee.
 - **Payment** 💰: Users make a payment for the coffee. The system ensures that the payment is processed before making the coffee.
